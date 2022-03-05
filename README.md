@@ -13,17 +13,17 @@ This is a sitemap of the website which has not changed from the initial mock-up.
 ![wireframe](docs/Screen%20Shot%202022-03-06%20at%2012.13.13%20am.png)
 After the creation of the sitemap came the wireframes. This is just an example of how the wireframes were laid out for the pages shown in the sitemap.
 
-## Scrrenshots
+## Screenshots
 ![Home](docs/home.png)
 ![Skills](docs/skills.png)
 ![Blog](docs/blog.png)
 ![Contact](docs/contact.png)
 ![About](docs/about.png)
 
-## Target AUdience
-The Target Audience are potential clients and employers
+## Target Audience
+The Target audiences are potential clients and employers
 
 ## Tech Stack
-The site consists of only HTML and CSS. In the future i would like to add the use of Javascript.
+The site consists of only HTML and CSS. In the future, I would like to add the use of Javascript.
 
-Currently deployed on Netlify  which might change in future.
+Currently deployed on Netlify which might change in the future.
